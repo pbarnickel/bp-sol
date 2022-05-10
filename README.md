@@ -1,4 +1,4 @@
 # bp-sol
-Main website for BP-SOL
+main website for BP-SOL
 
-https://bp-sol.de
+[https://www.bp-sol.de](https://bp-sol.de)
