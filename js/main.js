@@ -11,3 +11,7 @@ $('.bpsMenuItem').click(function () {
     var oTarget = '#' + $(this).data('target');
     $(oTarget).show();
 });
+
+$('#bpsHdrBrand').click(function () {
+    $('#bpsContent *').css('display', '');
+});
