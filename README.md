@@ -1,2 +1,2 @@
 # bp-sol
-Main Website for BP-SOL
+Main website for BP-SOL
